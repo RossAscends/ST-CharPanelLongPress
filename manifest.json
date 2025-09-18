@@ -1,0 +1,10 @@
+{
+    "display_name": "CharPanelLongPress",
+    "loading_order": 15,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "author": "RossAscends",
+    "version": "1.0.0",
+    "homePage": "https://github.com/RossAscends/ST-CharPanelLongPress"
+}
